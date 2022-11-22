@@ -6,7 +6,7 @@
 - the forms will be or can be turned into sheets (google sheets)
 
 ## TODO
-- you need to create a new form in Google Forms.
+NOTE: you need to create a new form in Google Forms.
 1. Go to https://docs.google.com/forms/ and create your own form
 2. Add 3 questions to the form, make all questions "short-answer"
 3. Click send and copy the link address of the form. You will need to use this in your program.
